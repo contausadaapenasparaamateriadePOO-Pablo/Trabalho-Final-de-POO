@@ -1,0 +1,991 @@
+{"plantas": {
+  "Suculento": [
+    {
+      "nomePopular": "Mandacaru",
+      "nomeCientifico": "Cereus jamacaru",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Cacto arbóreo de 4-6 metros de altura. Caule verde-azulado, segmentado em colunas verticais com 4-6 costelas salientes. Flores brancas grandes (15-20cm) em formato de funil, pétalas longas e delicadas.",
+      "cheiro": "Flores com perfume suave e adocicado durante a noite.",
+      "curiosidades": "Símbolo da resistência nordestina. Comum na Bahia, Pernambuco e Ceará. Flores abrem apenas à noite e murcham ao amanhecer. Fruto comestível usado em doces e geleias.",
+      "tipoEspinho": "Agudos, rígidos e acinzentados, distribuídos ao longo das aréolas nas nervuras do caule."
+    },
+    {
+      "nomePopular": "Xique-xique",
+      "nomeCientifico": "Pilosocereus gounellei",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Afloramentos Rochosos e Solos Rasos).",
+      "descricao": "Cacto arbustivo de 2-4 metros, ramificado desde a base. Caules cilíndricos verde-azulados com 4-6 costelas bem marcadas. Flores brancas em formato tubular (8-10cm) que abrem à noite.",
+      "cheiro": "Flores com perfume adocicado e suave durante a floração noturna.",
+      "curiosidades": "Comum na Bahia e Pernambuco. Polpa rica em água, usada como fonte de hidratação para animais na seca. Frutos comestíveis com polpa doce.",
+      "tipoEspinho": "Muito numerosos, longos e extremamente pontiagudos, organizados em aréolas que recobrem densamente o caule."
+    },
+    {
+      "nomePopular": "Coroa-de-frade",
+      "nomeCientifico": "Melocactus zehntneri",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Cacto globoso de 15-30cm de diâmetro. Corpo verde com costelas salientes. No topo, estrutura cilíndrica avermelhada chamada cefálio (a coroa) com lã e cerdas. Flores pequenas rosas ou magenta surgem do cefálio.",
+      "cheiro": "Sem cheiro característico. Flores com leve perfume adocicado.",
+      "curiosidades": "Símbolo da caatinga, muito popular como ornamental. Comum em Bahia, Pernambuco e Paraíba. Cefálio surge apenas em plantas adultas (5-7 anos). Ameaçado pela extração ilegal.",
+      "tipoEspinho": "Robustos e pontiagudos, dispostos em nervuras ao longo do corpo verde; cores variam entre amarelo, castanho e avermelhado."
+    },
+    {
+      "nomePopular": "Facheiro",
+      "nomeCientifico": "Pilosocereus pachycladus",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Afloramentos Rochosos e Solos Rasos).",
+      "descricao": "Cacto colunar de até 10 metros de altura. Caule verde-azulado característico com ramificações em forma de candelabro. Possui 4-6 costelas salientes. Flores brancas grandes (12-15cm) em formato de funil.",
+      "cheiro": "Flores com perfume suave e noturno.",
+      "curiosidades": "Conhecido como Facheiro-azul devido à coloração. Comum na Bahia e Sergipe. Usado como cerca viva e em paisagismo. Frutos comestíveis apreciados por pássaros.",
+      "tipoEspinho": "Agudos e numerosos, de cor dourada ou acinzentada, organizados em auréolas ao longo das costelas salientes."
+    },
+    {
+      "nomePopular": "Palma-forrageira",
+      "nomeCientifico": "Opuntia ficus-indica",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Cacto de até 3 metros formado por cladódios (raquetes) achatados e ovais de 20-40cm. Verde-claro, suculentos e espessos. Flores amarelas ou alaranjadas (5-7cm). Frutos ovais vermelhos ou amarelos.",
+      "cheiro": "Sem cheiro característico. Flores com leve aroma adocicado.",
+      "curiosidades": "Essencial para pecuária do semiárido nordestino. Cultivada em todo o sertão como forragem na seca. Pernambuco é maior produtor nacional. Frutos (figo-da-índia) são comestíveis. Raquetes usadas na alimentação humana e animal.",
+      "tipoEspinho": "Dependendo da variedade, pode ter espinhos longos e rígidos ou ser praticamente desprovida deles (variedades 'miúda' ou 'doce'), possuindo apenas minúsculos gloquídios (espinhos tipo pelo) que irritam a pele."
+    },
+    {
+      "nomePopular": "Cabeça-de-velho",
+      "nomeCientifico": "Cephalocereus senilis",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Cacto colunar de 1-3 metros totalmente coberto por longos pelos brancos e sedosos (até 12cm de comprimento). Caule cilíndrico verde sob os pelos. Flores róseas ou brancas noturnas surgem no topo.",
+      "cheiro": "Sem cheiro característico. Flores com perfume suave.",
+      "curiosidades": "Muito popular como ornamental. Nome vem da aparência de cabelos brancos de pessoa idosa. Pelos protegem da radiação solar e frio. Crescimento lento. Comum em coleções particulares.",
+      "tipoEspinho": "Espinhos agudos escondidos sob a densa cobertura de pelos brancos."
+    },
+    {
+      "nomePopular": "Macambira",
+      "nomeCientifico": "Bromelia laciniosa",
+      "familia": "Bromeliaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Bromélia terrestre de 50-80cm. Folhas longas, rígidas e estreitas dispostas em roseta densa. Verde-acinzentadas com espinhos nas margens. Inflorescência central com flores roxas ou róseas.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Símbolo de resistência do sertão. Comum na Bahia, Pernambuco e Piauí. Usada como forragem emergencial para gado na seca (após queima dos espinhos). Fibras extraídas para cordas e artesanato. Muito resistente à estiagem.",
+      "tipoEspinho": "Margens das folhas providas de espinhos em forma de gancho, muito afiados e resistentes."
+    },
+    {
+      "nomePopular": "Caroá",
+      "nomeCientifico": "Neoglaziovia variegata",
+      "familia": "Bromeliaceae",
+      "habitat": "Áreas Sombreadas ou Protegidas.",
+      "descricao": "Bromélia de 40-70cm com folhas estreitas e compridas (até 60cm). Verde com manchas transversais claras características. Folhas dispostas em roseta densa. Inflorescência com flores roxas ou azuis.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Historicamente importante na Bahia e Pernambuco. Fibra têxtil de excelênte qualidade, usada para cordas, redes e tecidos. Indústria artesanal ativa. Cultivo sustentável em algumas comunidades.",
+      "tipoEspinho": "Pequenos espinhos serrilhados ao longo das bordas das folhas."
+    },
+    {
+      "nomePopular": "Urumbeba",
+      "nomeCientifico": "Tacinga inamoena",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Afloramentos Rochosos e Solos Rasos).",
+      "descricao": "Cacto rasteiro de 30-60cm. Artículos (raquetes) ovais e achatados verde-claros (8-12cm). Flores laranja vibrante (4-5cm) em formato de funil. Frutos pequenos arroxeados.",
+      "cheiro": "Sem cheiro característico. Flores com leve aroma.",
+      "curiosidades": "Muito resistente ao sol pleno e seca. Comum em Pernambuco, Paraíba e Rio Grande do Norte. Usada como forrageira na seca. Flores atraem abelhas nativas. Frutos comestíveis.",
+      "tipoEspinho": "Geralmente desprovida de espinhos grandes, mas possui gloquídios (espinhos minúsculos) que penetram facilmente na pele."
+    },
+    {
+      "nomePopular": "Rabo-de-raposa",
+      "nomeCientifico": "Hildewintera colademononis",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Afloramentos Rochosos e Solos Rasos).",
+      "descricao": "Cacto pendente de 50-100cm. Caules longos e cilíndricos (2-3cm diâmetro) cobertos por densa pilosidade branca sedosa. Flores laranjas ou vermelhas tubulares (5-6cm) ao longo do caule.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito popular como ornamental em vasos suspensos. Nome vem da aparência de cauda de raposa. Originalmente da Bolívia, mas adaptada ao Nordeste. Crescimento moderado.",
+      "tipoEspinho": "Espinhos moles e flexíveis que parecem pelos, de cor branca ou amarelada."
+    },
+    {
+      "nomePopular": "Cacto-parafuso",
+      "nomeCientifico": "Cereus forbesii 'Spiralis'",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Cacto colunar de 2-3 metros com caule verde crescendo em espiral característica. Possui 4-5 costelas que acompanham o movimento helicoidal. Flores brancas grandes (15-20cm) noturnas.",
+      "cheiro": "Flores com perfume adocicado intenso durante a noite.",
+      "curiosidades": "Variante exótica muito procurada por colecionadores. Forma geométrica única. Crescimento lento. Muito valorizado em paisagismo e decoração. Mutação genética natural.",
+      "tipoEspinho": "Rígidos e curtos, distribuídos nas nervuras que acompanham o movimento espiral do caule."
+    },
+    {
+      "nomePopular": "Mandacaru-de-três-quinas",
+      "nomeCientifico": "Cereus hildmannianus",
+      "familia": "Cactaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Cacto arbóreo de 4-8 metros. Caule verde com 3-4 costelas (quinas) muito proeminentes e finas. Ramificações em candelabro. Flores brancas grandes (20-25cm) noturnas com pétalas longas.",
+      "cheiro": "Flores com perfume doce e intenso à noite.",
+      "curiosidades": "Semelhante ao Mandacaru comum, mas com menos costelas. Comum no Sul da Bahia e Minas Gerais. Frutos comestíveis menores que o mandacaru tradicional. Usado em cercas vivas.",
+      "tipoEspinho": "Variável, muitas vezes escasso nos ramos mais velhos, mas presentes em aréolas nos ramos jovens."
+    },
+    {
+      "nomePopular": "Flor-de-maio",
+      "nomeCientifico": "Schlumbergera truncata",
+      "familia": "Cactaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas",
+      "descricao": "Cacto epífito de 20-30cm. Ramos formados por artículos achatados verdes com bordas serrilhadas. Flores pendentes (5-8cm) em tons de rosa, vermelho, branco ou roxo com pétalas delicadas.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Popular planta ornamental de interior. Floresce no outono/inverno (abril-junho no Brasil). Originalmente epífita de florestas do Rio de Janeiro. Precisa de ambiente úmido e sombra parcial.",
+      "tipoEspinho": "Ausentes; possui apenas pequenas cerdas nas extremidades dos artículos."
+    },
+    {
+      "nomePopular": "Quipá",
+      "nomeCientifico": "Tacinga palmadora",
+      "familia": "Cactaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Cacto arbustivo de 1-2 metros. Segmentos achatados e estreitos (8-15cm) verde-claros. Flores amarelas ou laranjas (3-4cm). Frutos pequenos roxos ou vermelhos quando maduros.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Comum em Pernambuco, Paraíba e Bahia. Usado para formar cercas vivas impenetráveis. Muito resistente à seca. Frutos comestíveis apreciados por aves. Nome vem do tupi-guarani 'ki'pa' (espinhoso).",
+      "tipoEspinho": "Muito fortes, agudos e de cor clara, distribuídos por todo o segmento."
+    },
+    {
+      "nomePopular": "Flor-de-outubro",
+      "nomeCientifico": "Hatiora gaertneri",
+      "familia": "Cactaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas",
+      "descricao": "Cacto epífito de 20-40cm. Ramos com artículos achatados verdes de bordas arredondadas (mais suaves que a Flor-de-maio). Flores pendentes (6-8cm) vermelhas, rosas ou laranjas.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito semelhante à Flor-de-maio, mas floração ocorre na primavera (setembro-outubro). Popular como ornamental de interior. Originalmente epífita de florestas. Precisa de umidade e sombra.",
+      "tipoEspinho": "Ausentes."
+    }
+  ],
+  "Arboreo": [
+    {
+      "nomePopular": "Juazeiro",
+      "nomeCientifico": "Ziziphus joazeiro",
+      "familia": "Rhamnaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Árvore de 5-10 metros sempre verde. Tronco tortuoso com casca acinzentada. Folhas pequenas verde-brilhantes (3-5cm). Flores pequenas amarelo-esverdeadas. Frutos arredondados amarelos (1-2cm).",
+      "cheiro": "Casca com aroma suave. Flores com perfume discreto.",
+      "curiosidades": "Símbolo do sertão, permanece verde na seca mais severa. Comum em Bahia, Pernambuco e Ceará. Casca rica em saponina usada como sabão natural. Frutos comestíveis e medicinais. Sombra importante para viajantes e animais.",
+      "alturaCopa": "Copa baixa e muito densa (sempre verde)."
+    },
+    {
+      "nomePopular": "Baraúna",
+      "nomeCientifico": "Schinopsis brasiliensis",
+      "familia": "Anacardiaceae",
+      "habitat": "Áreas de Transição e Cerrado.",
+      "descricao": "Árvore imponente de 10-20 metros. Tronco grosso e rugoso com casca grossa marrom-escura. Copa rala com folhas compostas. Flores pequenas amarelo-esverdeadas. Frutos secos alados.",
+      "cheiro": "Madeira com aroma marcante e resinoso.",
+      "curiosidades": "Uma das árvores mais longevas do semiárido (até 300 anos). Madeira extremamente dura e resistente, chamada 'pau-ferro'. Comum na Paraíba e Pernambuco. Exploração controlada devido ao risco de extinção.",
+      "alturaCopa": "Copa rala e alta."
+    },
+    {
+      "nomePopular": "Aroeira-do-sertão",
+      "nomeCientifico": "Myracrodruon urundeuva",
+      "familia": "Anacardiaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Árvore de 8-15 metros. Tronco com casca grossa que se desprende em placas irregulares avermelhadas. Folhas compostas com foliolos pequenos. Flores pequenas creme-esverdeadas. Frutos vermelhos pequenos.",
+      "cheiro": "Casca e folhas com aroma resinoso característico e forte.",
+      "curiosidades": "Madeira nobilissíma, muito durável. Comum em todo Nordeste. Propriedades medicinais (anti-inflamatório, cicatrizante). Espécie protegida por lei devido à exploração histórica. Resistência excepcional a cupins.",
+      "alturaCopa": "Copa alongada."
+    },
+    {
+      "nomePopular": "Umbuzeiro",
+      "nomeCientifico": "Spondias tuberosa",
+      "familia": "Anacardiaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Árvore de 4-7 metros. Copa ampla em formato de guarda-chuva. Tronco curto e tortuoso. Folhas compostas que caem na seca. Flores pequenas brancas. Frutos ovoides amarelo-esverdeados (3-5cm) com polpa suculenta.",
+      "cheiro": "Frutos com aroma cítrico e adocicado característico.",
+      "curiosidades": "Chamado de 'árvore sagrada do sertão'. Raízes com batatas (túberas) armazenam até 2000 litros de água. Comum na Bahia e Pernambuco. Fruto usado em umbuzada, doces e sucos. Economia importante para famílias sertanejas.",
+      "alturaCopa": "Copa em formato de guarda-chuva (larga e baixa)."
+    },
+    {
+      "nomePopular": "Cajueiro",
+      "nomeCientifico": "Anacardium occidentale",
+      "familia": "Anacardiaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos).",
+      "descricao": "Árvore de 5-12 metros. Copa irregular e espalhada. Folhas grandes ovais verde-escuras (8-15cm). Flores pequenas rosadas em panículas. Pseudofruto (caju) amarelo ou vermelho carnoso. Fruto real (castanha) em formato de rim.",
+      "cheiro": "Caju com aroma doce e característico. Flores com perfume suave.",
+      "curiosidades": "Nordeste é maior produtor de castanha do Brasil. Piauí tem o maior cajueiro do mundo. Caju usado em sucos, doces e cajuinha. Castanha torrada muito valorizada. Adapta-se bem a solos arenosos costeiros.",
+      "alturaCopa": "Copa irregular e espalhada."
+    },
+    {
+      "nomePopular": "Ipê-Amarelo",
+      "nomeCientifico": "Handroanthus albus",
+      "familia": "Bignoniaceae",
+      "habitat": "Mata Atlântica, Cerrado e áreas de transição.",
+      "descricao": "Árvore de 8-16 metros. Tronco reto com casca fissurada acinzentada. Árvore caducífolia que perde folhas antes da floração. Flores amarelas vibrantes em formato de trombeta (5-7cm) cobrindo toda a copa.",
+      "cheiro": "Flores com perfume suave e adocicado.",
+      "curiosidades": "Floração espetacular no inverno/primavera (agosto-setembro). Símbolo nacional do Brasil. Madeira nobre resistente. Muito usado em paisagismo urbano. Comum em todo Nordeste.",
+      "alturaCopa": "Copa arredondada e alta."
+    },
+    {
+      "nomePopular": "Carnaúba",
+      "nomeCientifico": "Copernicia prunifera",
+      "familia": "Arecaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Palmeira de 10-15 metros. Estipe (tronco) cilíndrico reto coberto por bases de folhas velhas. Folhas em leque (até 2m diâmetro) verde-acinzentadas cobertas por cera. Inflorescência entre as folhas com flores pequenas amarelas.",
+      "cheiro": "Folhas com leve aroma ceroso.",
+      "curiosidades": "Chamada 'árvore da vida' - tudo se aproveita. Ceará, Piauí e Rio Grande do Norte são principais produtores. Cera extraída das folhas usada em cosméticos, automotiva e indústria. Madeira, fibras e frutos também aproveitados.",
+      "alturaCopa": "Copa em leque (palmeira)."
+    },
+    {
+      "nomePopular": "Pau-Brasil",
+      "nomeCientifico": "Paubrasilia echinata",
+      "familia": "Fabaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas.",
+      "descricao": "Árvore de 10-15 metros. Tronco coberto por acúleos (espinhos). Casca externa acinzentada, cerne vermelho intenso. Folhas compostas bipinadas delicadas. Flores amarelas vistosas (3-4cm) em cachos. Vagens espinhosas marrons.",
+      "cheiro": "Madeira com aroma suave e característico quando cortada.",
+      "curiosidades": "Árvore histórica que deu nome ao país. Madeira produz corante vermelho (brasileina) usado no século XVI. Quase extinta pela exploração. Árvore-símbolo nacional. Protegida por lei. Usada em arcos de violino.",
+      "alturaCopa": "Copa média e frondosa."
+    },
+    {
+      "nomePopular": "Angico",
+      "nomeCientifico": "Anadenanthera colubrina",
+      "familia": "Fabaceae",
+      "habitat": "Áreas de Transição e Cerrado.",
+      "descricao": "Árvore de 8-18 metros. Casca rugosa e profundamente fissurada marrom-escura. Folhas compostas bipinadas delicadas. Flores pequenas branco-amareladas em espígas globosas perfumadas. Vagens achatadas marrons.",
+      "cheiro": "Flores com perfume doce e intenso que atrai abelhas. Casca com aroma tânico.",
+      "curiosidades": "Crescimento rápido. Casca rica em tanino usada para curtume de couro. Melífera importante. Madeira durável para construção. Comum em todo Nordeste. Sementes usadas ritualmente por povos indígenas.",
+      "alturaCopa": "Copa alta e aberta."
+    },
+    {
+      "nomePopular": "Mulungu",
+      "nomeCientifico": "Erythrina velutina",
+      "familia": "Fabaceae",
+      "habitat": "Matas de Galeria e Margens de Rios.",
+      "descricao": "Árvore de 6-12 metros. Tronco com acúleos cônicos espaçados. Folhas compostas trifolioladas que caem na seca. Flores vermelhas intensas em formato de lábio (10-12cm) em cachos verticais. Sementes vermelhas decorativas.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Floração espetacular vermelha no inverno seco. Comum na Bahia, Pernambuco e Ceará. Propriedades calmantes e sedativas conhecidas. Sementes usadas em biojoias. Atrai beija-flores. Árvore-símbolo de Pernambuco.",
+      "alturaCopa": "Copa larga com flores vermelhas."
+    },
+    {
+      "nomePopular": "Jatobá",
+      "nomeCientifico": "Hymenaea courbaril",
+      "familia": "Fabaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas",
+      "descricao": "Árvore majestosa de 15-30 metros. Tronco reto e grosso com casca lisa acinzentada. Copa ampla e densa. Folhas compostas bifolioladas brilhantes. Flores brancas pequenas. Vagens lenhosas grandes (10-20cm) com polpa farinhosa.",
+      "cheiro": "Polpa dos frutos com aroma adocicado característico. Resina aromática.",
+      "curiosidades": "Madeira nobre muito valorizada. Comum em todo Nordeste. Polpa rica em ferro e cálcio usada em mingaus e licores. Casca medicinal. Resina (jatobá-curbaril) usada em vernizes. Longeva (centenas de anos).",
+      "alturaCopa": "Copa muito alta, dominante na mata."
+    },
+    {
+      "nomePopular": "Oiticica",
+      "nomeCientifico": "Licania rigida",
+      "familia": "Chrysobalanaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Árvore de 6-12 metros perenifólia (sempre verde). Copa densa e ampla. Folhas grandes rígidas verde-escuras brilhantes (10-15cm). Flores pequenas branco-rosadas. Frutos ovoides com semente oleaginosa.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Oferece sombra densa o ano todo. Comum no Ceará, Piauí e Rio Grande do Norte. Óleo das sementes usado industrialmente (tintas, vernizes). Importante na economia regional no século XX. Madeira resistente.",
+      "alturaCopa": "Copa densa e perenifólia (sempre verde)."
+    },
+    {
+      "nomePopular": "Catingueira",
+      "nomeCientifico": "Cenostigma pyramidale",
+      "familia": "Fabaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos)",
+      "descricao": "Árvore de 4-8 metros. Tronco tortuoso com casca lisa e manchada (esbranquiçada). Copa piramidal rala. Folhas compostas bipinadas que caem na seca. Flores amarelas em cachos vistosos. Vagens achatadas.",
+      "cheiro": "Casca com aroma característico da caatinga.",
+      "curiosidades": "Indicadora da chegada das chuvas - primeira a brotar no inverno sertanejo. Comum na Paraíba, Pernambuco e Ceará. Nome vem do cheiro da caatinga. Madeira usada para lença e estacas. Flores melíferas.",
+      "alturaCopa": "Copa piramidal e rala."
+    },
+    {
+      "nomePopular": "Pau-Ferro",
+      "nomeCientifico": "Libidibia ferrea",
+      "familia": "Fabaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas",
+      "descricao": "Árvore de 8-15 metros. Tronco liso e marmorizado com manchas claras e escuras muito ornamental. Folhas compostas bipinadas delicadas. Flores amarelas em cachos. Vagens lenhosas duras (pau-de-ferro).",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito usada em paisagismo urbano pela beleza do tronco. Comum no litoral nordestino. Madeira extremamente pesada e dura. Sementes medicinais (antidiabético). Resistência a pragas urbanas.",
+      "alturaCopa": "Copa aberta e elegante."
+    },
+    {
+      "nomePopular": "Buriti",
+      "nomeCientifico": "Mauritia flexuosa",
+      "familia": "Arecaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Palmeira majestosa de 15-25 metros. Estipe (tronco) cilíndrico coberto por bases de folhas. Folhas em leque circular muito grandes (2-3m diâmetro). Frutos ovoides cobertos por escamas avermelhadas brilhantes (5-7cm).",
+      "cheiro": "Frutos com aroma adocicado característico.",
+      "curiosidades": "Essencial para fauna (araras, anta, peixes). Comum em veredas e brejos. Frutos ricos em vitamina A e óleos. Usado em doces, sucos e óleo de buriti (cosmético). Fibras para artesanato. Indicadora de água no subsolo.",
+      "alturaCopa": "Copa em leque circular (palmeira de brejo)."
+    },
+    {
+      "nomePopular": "Manga",
+      "nomeCientifico": "Mangifera indica",
+      "familia": "Anacardiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Árvore de 10-20 metros. Copa ampla, densa e arredondada. Folhas lançoladas verde-escuras (15-30cm). Flores pequenas branco-amareladas em panículas. Frutos grandes ovoides (10-25cm) amarelos, verdes ou avermelhados com polpa suculenta.",
+      "cheiro": "Frutos maduros com aroma doce e tropical intenso. Folhas com cheiro resinoso.",
+      "curiosidades": "Muito popular no Nordeste. Variedades: Ubá, Tommy Atkins, Espada, Rosa, Haden. Pernambuco e Bahia são grandes produtores. Usada em sucos, doces, sorvetes e consumo in natura. Sombra valiosa.",
+      "alturaCopa": "Copa larga, frondosa e muito densa."
+    },
+    {
+      "nomePopular": "Ciriguela",
+      "nomeCientifico": "Spondias purpurea",
+      "familia": "Anacardiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Árvore de 4-8 metros. Copa média e aberta. Folhas compostas que caem na seca. Flores pequenas róseas. Frutos pequenos ovoides (2-4cm) passando de verde para amarelo e depois avermelhado quando maduros. Polpa suculenta e ácida.",
+      "cheiro": "Frutos com aroma cítrico e levemente adocicado.",
+      "curiosidades": "Muito popular no Nordeste, especialmente em Pernambuco e Bahia. Frutos apreciados in natura, em sucos, sorvetes e doces. Rica em vitamina C. Resistência à seca. Nome de origem indígena.",
+      "alturaCopa": "Copa média e aberta."
+    },
+    {
+      "nomePopular": "Goiaba",
+      "nomeCientifico": "Psidium guajava",
+      "familia": "Myrtaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Árvore de 3-8 metros. Tronco com casca lisa que se desprende em placas. Folhas ovais verde-claras com nervuras salientes (7-15cm). Flores brancas vistosas (2-3cm). Frutos redondos ou ovoides verdes/amarelos com polpa branca ou rosada.",
+      "cheiro": "Frutos com aroma doce e característico muito intenso. Folhas aromáticas.",
+      "curiosidades": "Muito rústica e resistente. Comum em todo Nordeste. Rica em vitamina C (mais que laranja). Usada em sucos, goiabada, polpa, doces. Folhas medicinais (diarreia). Fácil cultivo em quintais.",
+      "alturaCopa": "Copa arredondada e média."
+    },
+    {
+      "nomePopular": "Mamão",
+      "nomeCientifico": "Carica papaya",
+      "familia": "Caricaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Planta herbácea arborescente de 2-8 metros. Caule oco, verde, sem ramificações com cicatrizes de folhas. Folhas grandes palmadas no topo (50-70cm). Flores branco-amareladas. Frutos grandes ovais (15-30cm) com polpa laranja ou amarela.",
+      "cheiro": "Frutos maduros com aroma adocicado característico. Látex com odor forte.",
+      "curiosidades": "Bahia é maior produtor nacional. Rico em papaína (enzima digestiva) e vitamina A. Usado in natura, sucos, doces e como amaciante de carnes. Crescimento rápido. Propriedades medicinais (digestão).",
+      "alturaCopa": "Copa piramidal e média altura."
+    },
+    {
+      "nomePopular": "Coco",
+      "nomeCientifico": "Cocos nucifera",
+      "familia": "Arecaceae",
+      "habitat": "Ambientes Costeiros e Antropizados",
+      "descricao": "Palmeira de 15-30 metros. Estipe (tronco) cilíndrico levemente curvado com anéis. Folhas pinadas arqueadas (4-6m) verde-brilhantes. Inflorescência entre folhas. Frutos grandes esféricos (20-30cm) com casca fibrosa e coco interno.",
+      "cheiro": "Polpa e água com aroma adocicado suave. Casca fibrosa sem cheiro.",
+      "curiosidades": "Símbolo do litoral nordestino. Bahia, Sergipe e Ceará são grandes produtores. Água de coco, leite, óleo, polpa usados. Fibra para artesanato. Resistência ao vento e salinidade. Econômica e culturalmente importante.",
+      "alturaCopa": "Copa em leque (palmeira alta)."
+    },
+    {
+      "nomePopular": "Graviola",
+      "nomeCientifico": "Annona muricata",
+      "familia": "Annonaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Árvore de 4-8 metros. Copa alongada e densa. Folhas grandes ovais brilhantes (8-15cm). Flores amarelo-esverdeadas grandes (4-5cm). Frutos grandes coração/ovais (15-30cm) verde-escuros cobertos por espinhos moles, polpa branca cremosa.",
+      "cheiro": "Frutos maduros com aroma adocicado intenso e característico.",
+      "curiosidades": "Muito popular no Nordeste. Polpa doce usada em sucos, vitaminas, sorvetes e doces. Propriedades medicinais estudadas. Comum em Bahia, Pernambuco e Ceará. Folhas usadas em chás.",
+      "alturaCopa": "Copa alongada e densa."
+    },
+    {
+      "nomePopular": "Acerola",
+      "nomeCientifico": "Malpighia punicifolia",
+      "familia": "Malpighiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Arbusto/árvore pequena de 2-4 metros. Copa baixa compacta e arredondada. Folhas pequenas ovais verde-brilhantes (3-7cm). Flores róseas delicadas (1-2cm). Frutos pequenos vermelhos (1-2cm) com 3 lobos, polpa suculenta.",
+      "cheiro": "Frutos com aroma levemente ácido e refrescante.",
+      "curiosidades": "Campeã em vitamina C (80x mais que laranja). Muito cultivada em Pernambuco, Ceará e Bahia. Usada em sucos, polpa congelada e indústria farmacêutica. Frutífica várias vezes ao ano. Resistência ao calor.",
+      "alturaCopa": "Copa baixa e compacta."
+    },
+    {
+      "nomePopular": "Pitanga",
+      "nomeCientifico": "Eugenia uniflora",
+      "familia": "Myrtaceae",
+      "habitat": "Mata Atlântica e Ambientes Antropizados",
+      "descricao": "Árvore de 3-6 metros. Copa arredondada compacta. Folhas ovais aromáticas verde-escuras brilhantes (4-8cm). Flores brancas delicadas (1cm). Frutos pequenos (2-3cm) com 7-10 gomos em formato de estrela, vermelhos ou preto-arroxeados.",
+      "cheiro": "Frutos com aroma doce e levemente resinoso. Folhas com perfume característico.",
+      "curiosidades": "Nativa da Mata Atlântica, comum em todo Nordeste. Fruta doce e levemente ácida, excelente em sucos, sorvetes e licores. Rica em vitamina C e antioxidantes. Nome de origem tupi-guarani. Fácil cultivo.",
+      "alturaCopa": "Copa arredondada e compacta."
+    },
+    {
+      "nomePopular": "Mirtácio",
+      "nomeCientifico": "Psidium cattleyanum",
+      "familia": "Myrtaceae",
+      "habitat": "Mata Atlântica e Ambientes Antropizados",
+      "descricao": "Árvore de 3-7 metros. Copa arredondada média. Casca lisa que se desprende. Folhas ovais aromáticas verde-escuras (5-10cm). Flores brancas (2cm). Frutos pequenos redondos (2-4cm) avermelhados ou amarelos com polpa doce.",
+      "cheiro": "Frutos com aroma intenso adocicado. Folhas aromáticas.",
+      "curiosidades": "Também chamado araçá ou goiaba-anã. Nativo da Mata Atlântica. Frutos menores que goiaba mas sabor mais intenso. Usados in natura, geleias e sucos. Rico em vitamina C. Resistência a pragas.",
+      "alturaCopa": "Copa arredondada e média."
+    },
+    {
+      "nomePopular": "Jaca",
+      "nomeCientifico": "Artocarpus heterophyllus",
+      "familia": "Moraceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Árvore grande de 10-20 metros. Copa muito ampla, alta e densa. Folhas grandes ovais verde-escuras brilhantes (10-20cm). Frutos enormes (20-50cm, até 20kg) presos ao tronco/galhos, casca áspera verde com espinhos hexagonais, polpa amarela.",
+      "cheiro": "Frutos maduros com aroma muito forte, doce e característico.",
+      "curiosidades": "Maior fruto que cresce em árvore. Comum em todo Nordeste. Polpa adocicada e aromática usada in natura, cozida, assada, em doces. Jaca verde como 'carne vegetal'. Sementes comestíveis cozidas. Madeira resistente.",
+      "alturaCopa": "Copa muito grande, alta e densa."
+    },
+    {
+      "nomePopular": "Jambo",
+      "nomeCientifico": "Syzygium jambos",
+      "familia": "Myrtaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Árvore de 6-12 metros. Copa arredondada densa. Folhas lançoladas brilhantes (10-20cm). Flores brancas vistosas com longos estames (5-7cm). Frutos ovais/periformes (3-5cm) branco-esverdeados ou rosados, polpa aquosa e crocante.",
+      "cheiro": "Flores com perfume suave. Frutos com aroma de água de rosas.",
+      "curiosidades": "Comum em quintais nordestinos. Sabor suave e refrescante. Usado in natura e em doces. Rica em vitamina C. Flores ornamentais. Crescimento rápido. Variedades: jambo-rosa, jambo-vermelho, jambo-branco.",
+      "alturaCopa": "Copa arredondada e densa."
+    },
+    {
+      "nomePopular": "Banana",
+      "nomeCientifico": "Musa spp.",
+      "familia": "Musaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Planta herbácea gigante de 3-8 metros. Pseudo-caule formado por bainhas foliares sobrepostas. Folhas enormes (2-3m) verde-brilhantes. Inflorescência pendente com flores protegidas por brácteas roxas. Cachos com frutos alongados curvos (10-30cm).",
+      "cheiro": "Frutos maduros com aroma doce característico.",
+      "curiosidades": "Fundamental na alimentação nordestina. Variedades: Prata, Maçã, Nanica, D'Água, Ouro, Pacovã. Rica em potássio e carboidratos. Bahia e Pernambuco grandes produtores. Usada in natura, frita, assada, em doces.",
+      "alturaCopa": "Pseudo-caule herbáceo (3-4 metros)."
+    },
+    {
+      "nomePopular": "Abacaxi",
+      "nomeCientifico": "Ananas comosus",
+      "familia": "Bromeliaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Bromélia terrestre de 50-100cm. Folhas longas, estreitas e rígidas com espinhos nas margens dispostas em roseta. Inflorescência central que se torna fruto composto cilíndrico (15-30cm) com casca em escamas, coroa de folhas no topo.",
+      "cheiro": "Frutos maduros com aroma doce, tropical e intenso.",
+      "curiosidades": "Paraíba é grande produtor nacional (Sapateua). Polpa amarela suculenta e levemente ácida. Rico em bromelina (enzima). Usado in natura, sucos, doces e pratos salgados. Variedades: Pérola, Smooth Cayenne.",
+      "alturaCopa": "Roseta baixa com fruto terminal."
+    }
+    ],
+  "Trepadeira": [
+    {
+      "nomePopular": "Maracujá-do-mato",
+      "nomeCientifico": "Passiflora cincinnata",
+      "familia": "Passifloraceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos)",
+      "descricao": "Trepadeira de 3-6 metros. Caules verdes com gavinhas. Folhas profundamente lobadas (3-5 lobos). Flores exuberantes (8-12cm) com pétalas brancas/roxas e corona de filamentos roxos e brancos em anéis. Frutos ovoides verde-amarelados (5-8cm).",
+      "cheiro": "Flores com perfume suave e adocicado. Frutos com aroma cítrico.",
+      "curiosidades": "Variedade silvestre nativa da caatinga. Comum na Bahia e Pernambuco. Flores muito ornamentais. Frutos comestíveis de sabor acentuado usados em sucos. Resistência à seca. Propriedades calmantes.",
+      "mecanismoFixacao": "Gavinhas"
+    },
+    {
+      "nomePopular": "Cipó-de-são-joão",
+      "nomeCientifico": "Pyrostegia venusta",
+      "familia": "Bignoniaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Trepadeira vigorosa de 5-10 metros. Caules lenhosos com gavinhas. Folhas compostas com 2-3 foliolos verde-brilhantes. Floração intensa em cachos pendentes com flores tubulares laranja-vibrante (5-7cm) cobrindo cercas e barrancos.",
+      "cheiro": "Flores com perfume suave.",
+      "curiosidades": "Floração espetacular no inverno (junho-agosto). Nome remete às festas juninas. Comum em todo Brasil. Muito usada em paisagismo para cobrir muros e pérgolas. Atrai beija-flores. Crescimento vigoroso.",
+      "mecanismoFixacao": "Gavinhas"
+    },
+    {
+      "nomePopular": "Primavera/Buganvília",
+      "nomeCientifico": "Bougainvillea spectabilis",
+      "familia": "Nyctaginaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Arbusto escandente de 3-8 metros com ramos espinhosos. Folhas ovais verde-claras. Brácteas coloridas vistosas (rosa, magenta, roxo, laranja, branco) que protegem flores pequenas brancas tubulares (1cm). Floração exuberante.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito popular em paisagismo nordestino. Resistência ao calor e seca. Cores vibrantes durante quase todo ano. Variedades com brácteas simples ou dobradas. Fácil propagação por estacas. Acúleos ajudam fixação.",
+      "mecanismoFixacao": "Acúleos"
+    },
+    {
+      "nomePopular": "Jitirana",
+      "nomeCientifico": "Ipomoea nil",
+      "familia": "Convolvulaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira herbácea anual de 2-4 metros. Caules finos que se enrolam. Folhas cordiformes (coração) verde-claras. Flores em formato de campânula/funil (4-6cm) em tons de azul, roxo, rosa ou branco. Abre pela manhã e murcha à tarde.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Crescimento muito rápido. Comum em cercas e terrenos. Flores efêmeras mas abundantes. Variedades cultivadas ornamentais. Algumas espécies são invasoras. Raízes de algumas espécies medicinais (purgativas).",
+      "mecanismoFixacao": "Caule volúvel"
+    },
+    {
+      "nomePopular": "Cipó-pau",
+      "nomeCientifico": "Paullinia pinnata",
+      "familia": "Sapindaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Trepadeira lenhosa de 5-15 metros. Caule grosso resistente e tortuoso marrom-acinzentado. Folhas compostas pinadas com 3-5 foliolos serrilhados. Flores pequenas brancas em cachos. Frutos capsulares alados.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Caule lenhoso muito resistente usado artesanalmente. Comum em confecção de móveis rústicos, cestos, bengalas e estruturas. Popular em Minas Gerais e Nordeste. Crescimento lento mas durabilidade excepcional.",
+      "mecanismoFixacao": "Caule volúvel"
+    },
+    {
+      "nomePopular": "Baunilha-do-cerrado",
+      "nomeCientifico": "Vanilla edwallii",
+      "familia": "Orchidaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Orquídea trepadeira de 3-8 metros. Caules suculentos verdes com raízes aéreas aderentes. Folhas carnosas elípticas (10-15cm). Flores grandes branco-esverdeadas ou amareladas (5-8cm). Vagens (favas) longas e aromáticas (10-20cm).",
+      "cheiro": "Vagens (frutos) com aroma intenso de baunilha natural.",
+      "curiosidades": "Nativa do Brasil. Favas produzem essência de baunilha após cura. Cultivo artesanal em algumas regiões. Valor comercial alto. Polinização manual necessária para cultivo. Rara na natureza.",
+      "mecanismoFixacao": "Raízes aderentes"
+    },
+    {
+      "nomePopular": "Amor-agarradinho",
+      "nomeCientifico": "Antigonon leptopus",
+      "familia": "Polygonaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira herbácea perene de 3-6 metros. Caules finos avermelhados. Folhas cordiformes (coração) verde-claras. Flores pequenas rosas em cachos cascata abundantes. Gavinhas nas pontas dos cachos florais.",
+      "cheiro": "Flores com perfume suave e melífero.",
+      "curiosidades": "Muito popular em cercas nordestinas. Floração abundante quase o ano todo. Atrai muitas abelhas e borboletas. Crescimento rápido. Resistência ao calor. Fácil propagação. Nome popular pela persistência das gavinhas.",
+      "mecanismoFixacao": "Gavinhas"
+    },
+    {
+      "nomePopular": "Sapatinho-de-judia",
+      "nomeCientifico": "Thunbergia mysorensis",
+      "familia": "Acanthaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas",
+      "descricao": "Trepadeira perene de 4-8 metros. Caule lenhoso volúvel. Folhas ovais verde-escuras (5-10cm). Flores pendentes em cachos longos (30-60cm), formato tubular curvado amarelo com base marrom-avermelhada, lembram sapatinhos.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Ornamental exótica muito vistosa. Ideal para pérgolas e arcos. Floração espetacular pendente. Atrai beija-flores. Origem indiana. Cultivo em clima úmido. Flores duram semanas.",
+      "mecanismoFixacao": "Caule volúvel"
+    },
+    {
+      "nomePopular": "Alamanda-amarela",
+      "nomeCientifico": "Allamanda cathartica",
+      "familia": "Apocynaceae",
+      "habitat": "Mata Atlântica e Florestas Úmidas",
+      "descricao": "Trepadeira escandente de 3-5 metros. Caules com látex branco. Folhas elípticas verde-brilhantes (8-15cm) em verticilos. Flores amarelas grandes e brilhantes (8-12cm) em formato de trombeta com 5 pétalas.",
+      "cheiro": "Flores com perfume suave.",
+      "curiosidades": "Muito usada em paisagismo. Floração amarelo-ouro vistosa. ATENÇÃO: Látex tóxico, não ingerir. Comum em jardins do Nordeste. Resistência ao calor. Precisa de suporte para crescer.",
+      "mecanismoFixacao": "Escandente"
+    },
+    {
+      "nomePopular": "Cipó-cruz",
+      "nomeCientifico": "Bignonia corymbosa",
+      "familia": "Bignoniaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Trepadeira lenhosa de 5-12 metros. Caule com formato peculiar - corte transversal revela figura de cruz. Folhas compostas bifolioladas. Gavinhas trifoliadas. Flores roxas ou róseas tubulares (4-6cm) em cachos.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Nome vem da cruz visível no corte do caule. Considerada mística/medicinal por comunidades tradicionais. Comum em matas ciliares. Crescimento vigoroso. Flores atraem beija-flores. Madeira do caule usada artesanalmente.",
+      "mecanismoFixacao": "Gavinhas"
+    },
+    {
+      "nomePopular": "Tumbérgia-azul",
+      "nomeCientifico": "Thunbergia grandiflora",
+      "familia": "Acanthaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira vigorosa de 5-15 metros. Caule volúvel lenhoso. Folhas grandes cordiformes dentadas (10-20cm). Flores azul-arroxeadas grandes (6-8cm) em formato de trombeta com garganta amarela ou branca.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Crescimento muito vigoroso, ideal para cobrir grandes pérgolas. Floração abundante azul-lilás. Comum em paisagismo nordestino. Precisa poda regular. Pode se tornar invasora. Atrai borboletas.",
+      "mecanismoFixacao": "Caule volúvel"
+    },
+    {
+      "nomePopular": "Sete-léguas",
+      "nomeCientifico": "Podranea ricasoliana",
+      "familia": "Bignoniaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira de crescimento extraordinariamente rápido, 6-12 metros. Ramos longos escandentes. Folhas compostas pinadas com 5-9 foliolos. Flores róseas (5-7cm) em formato de trombeta com estrias escuras na garganta, em cachos abundantes.",
+      "cheiro": "Flores com perfume suave.",
+      "curiosidades": "Nome popular devido ao crescimento muito rápido ('sete léguas' de distância). Ideal para cobertura rápida de muros e pérgolas. Floração rosa intensa. Comum em jardins nordestinos. Precisa poda frequente.",
+      "mecanismoFixacao": "Escandente"
+    },
+    {
+      "nomePopular": "Clitória/Cunhã",
+      "nomeCientifico": "Clitoria ternatea",
+      "familia": "Fabaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira herbácea leguminosa de 2-4 metros. Caule volúvel fino. Folhas compostas pinadas com 5-7 foliolos elípticos. Flores azul intenso características (3-5cm) em formato de borboleta. Vagens achatadas com sementes.",
+      "cheiro": "Flores com perfume suave.",
+      "curiosidades": "Flores de azul intenso usadas para chás coloridos (muda de cor com pH). Forrageira nutritiva para animais. Propriedades medicinais (antioxidante). Comum em cercas rurais. Fixa nitrogênio no solo. Fácil cultivo.",
+      "mecanismoFixacao": "Caule volúvel"
+    },
+    {
+      "nomePopular": "Cipó-caboclo",
+      "nomeCientifico": "Davilla rugosa",
+      "familia": "Dilleniaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Trepadeira lenhosa de 4-10 metros. Caule marrom rugoso que 'abraça' árvores. Folhas ásperas ovais com nervuras salientes (8-15cm). Flores amarelas pequenas (2-3cm) em cachos. Frutos capsulares pequenos.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Folhas muito ásperas usadas como lixa natural. Propriedades medicinais analésicas (dores articulares). Comum no cerrado. Chá das folhas tradicional. Casca fibrosa resistente. Nome popular regional.",
+      "mecanismoFixacao": "Caule volúvel"
+    },
+    {
+      "nomePopular": "Herinha",
+      "nomeCientifico": "Ficus pumila",
+      "familia": "Moraceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira/rasteira de 1-10 metros. Raízes adesivas que grudam em superfícies. Folhas pequenas cordiformes verde-escuras brilhantes (2-4cm) formando tapete denso. Quando adulta, pode produzir folhas maiores e frutos (raro em cultivo).",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito usada para cobrir muros formando tapete verde uniforme. Adere firmemente a superfícies lisas. Popular em jardins urbanos. Crescimento lento mas cobertura densa. Requer umidade. Também chamada ficus-rasteiro.",
+      "mecanismoFixacao": "Raízes aderentes"
+    },
+    {
+      "nomePopular": "Melancia",
+      "nomeCientifico": "Citrullus lanatus",
+      "familia": "Cucurbitaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira/rasteira anual de 2-5 metros. Caules rasteiros com gavinhas. Folhas profundamente lobadas (3-5 lobos). Flores amarelas (2-3cm). Frutos grandes esféricos ou ovais (3-15kg) com casca verde listrada, polpa vermelha ou amarela aquosa.",
+      "cheiro": "Polpa madura com aroma adocicado suave e refrescante.",
+      "curiosidades": "Muito popular no sertão nordestino nos dias quentes. Rica em água (92%). Cultivada em Bahia, Pernambuco e Rio Grande do Norte. Refrescante e hidratante. Sementes torradas comestíveis. Variedades com ou sem sementes.",
+      "mecanismoFixacao": "Gavinhas"
+    },
+    {
+      "nomePopular": "Melão",
+      "nomeCientifico": "Cucumis melo",
+      "familia": "Cucurbitaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira anual de 2-4 metros. Caules rasteiros com gavinhas enroladas. Folhas arredondadas lobadas (10-15cm). Flores amarelas pequenas (2cm). Frutos ovoides (15-25cm) com casca lisa ou reticulada, polpa doce alaranjada, verde ou branca.",
+      "cheiro": "Frutos maduros com aroma doce e aromático intenso.",
+      "curiosidades": "Nordeste (RN, CE) é maior produtor nacional. Cultivado em períodos de chuva. Polpa doce e suculenta. Variedades: Amarelo, Galia, Pele-de-sapo, Cantálupo. Rico em vitaminas. Exportação importante.",
+      "mecanismoFixacao": "Gavinhas"
+    },
+    {
+      "nomePopular": "Abóbora",
+      "nomeCientifico": "Cucurbita spp.",
+      "familia": "Cucurbitaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Trepadeira/rasteira anual de 3-8 metros. Caules grossos rasteiros com gavinhas. Folhas grandes cordiformes (20-40cm). Flores grandes amarelo-alaranjadas (10-15cm). Frutos grandes variados (1-20kg) com casca dura e polpa alaranjada.",
+      "cheiro": "Polpa com aroma adocicado suave. Flores com perfume leve.",
+      "curiosidades": "Fundamental na culinária nordestina. Variedades: Cabotiá, Jacarezinho, Menina, Moranga. Usada em doces, salgados, mingaus. Sementes torradas comestíveis. Rica em vitamina A. Flores também comestíveis (recheadas).",
+      "mecanismoFixacao": "Gavinhas"
+    }
+  ],
+  "Herbacea": [
+      {
+      "nomePopular": "Onze-horas",
+      "nomeCientifico": "Portulaca grandiflora",
+      "familia": "Portulacaceae",
+      "habitat": "Afloramentos Rochosos e Solos Rasos",
+      "descricao": "Almofada suculenta rasteira com flores fofas pompom que abrem apenas sob sol intenso - rosa choque, amarelo neon, branco, laranja ou vermelho vibrante. Pétalas sedosas que se retraem ao anoitecer em movimento hipnotizante. Caules carnudos avermelhados com folhas cilíndricas miniatura verde-oliva.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Nome popular porque flores abrem quando sol está forte (por volta das 11h) e fecham ao entardecer. Muito resistente ao calor e seca. Popular em jardins rochosos. Cores vibrantes. Fácil cultivo e propagação.",
+      "corFlor": "Rosa, Amarela, Branca"
+    },
+    {
+      "nomePopular": "Vassourinha",
+      "nomeCientifico": "Scoparia dulcis",
+      "familia": "Plantaginaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Ramagem tão densa que parece uma vassourinha invertida de verdade - filamentos finos verdes cruzados em padrão caótico. Flores minúsculas brancas pontilham cada ângulo entre os galhos, invisíveis a distância mas contínuas até o topo. Sensação tátil de vassoura quando toque.",
+      "cheiro": "Planta com aroma herbáceo. Sabor levemente adocicado.",
+      "curiosidades": "Muito usada na medicina popular para problemas respiratórios (tosse, bronquite). Comum em terrenos e jardins. Propriedades expectorantes. Chá das folhas tradicional. Nome vem do formato ramificado. Fácil de encontrar.",
+      "corFlor": "Branca"
+    },
+    {
+      "nomePopular": "Malva-branca",
+      "nomeCientifico": "Sida cordifolia",
+      "familia": "Malvaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Folhas aveludadas cinzento-verde com textura de camurça matte - parecem cobertas por fino pó prateado. Flores amarelo-alaranjadas pequenas brotos pontuados na axila de cada folha. Caules arroxeados intensos criam contraste com folhagem cinza-pálida - aspecto sutil mas distintivo.",
+      "cheiro": "Sem cheiro característico marcante.",
+      "curiosidades": "Conhecida por propriedades anti-inflamatórias e analgésicas. Comum em todo Nordeste. Chá usado para dores e inflamações. Também chamada guanxuma. Resistência a ambientes secos. Uso medicinal tradicional.",
+      "corFlor": "Amarela, Alaranjada"
+    },
+    {
+      "nomePopular": "Sensitiva/Dormideira",
+      "nomeCientifico": "Mimosa pudica",
+      "familia": "Fabaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Folhas compostas bipinadas tão sensíveis que fecham dramaticamente com roçar de dedo - movimento táctil único e fascinante. Flores lilás-fúcsia em pompom globoso denso (tamanho de bolinha de gude). Caule rústico com acúleos avermelhados confere aparência pré-histórica.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Famosa pelo movimento de fechar folhas ao toque (tigmonastia). Folhas se fecham também à noite. Fascina crianças. Comum em terrenos úmidos. Propriedades medicinais (calmante). Mecanismo de defesa contra herbívoros.",
+      "corFlor": "Lilás, Rosa"
+    },
+    {
+      "nomePopular": "Lírio-do-vento",
+      "nomeCientifico": "Zephyranthes candida",
+      "familia": "Amaryllidaceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Touceira de folhas lineares verde-grafite que emergem como grama após chuva. Flores brancas leitosas (raramente róseas) em funil delicado suspenso em hastes tão finas que parecem flutuar. Efeito de arranjo floral natural nascendo do chão molhado.",
+      "cheiro": "Flores com perfume suave e delicado.",
+      "curiosidades": "Surge em grandes touceiras após chuvas. Nome popular porque 'brota com o vento (que traz chuva)'. Flores efêmeras mas abundantes. Muito usada em jardins. Fácil cultivo e multiplicação. Também chamada lírio-da-chuva.",
+      "corFlor": "Branca, Rosa"
+    },
+    {
+      "nomePopular": "Pinhão-bravo",
+      "nomeCientifico": "Jatropha gossypiifolia",
+      "familia": "Euphorbiaceae",
+      "habitat": "Caatinga (Solos Áridos e Arenosos)",
+      "descricao": "Folhas palmadas (5-7 lobos) intensamente roxas em exemplares jovens - quase preto-roxo borgonha - depois verde-escuro com nervuras roxas residuais. Caules arroxeados carnudos contrastam com polpa vermelha visível se quebrado. Seiva branca leitosa cria 'sangramento' branco onde lesionada.",
+      "cheiro": "Látex com odor característico. Planta com cheiro herbáceo.",
+      "curiosidades": "Propriedades medicinais externas (cicatrizante, anti-inflamatório). ATENÇÃO: Tóxica se ingerida. Látex irrita pele. Comum em cercas e terrenos. Resistência à seca. Uso controlado na medicina popular.",
+      "corFlor": "Vermelha"
+    },
+    {
+      "nomePopular": "Zínia",
+      "nomeCientifico": "Zinnia elegans",
+      "familia": "Asteraceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Cabeças florais pompom repletas de pétalas sobrepostas em camadas - vermelho fogo, rosa fúcsia, amarelo solar, laranja chama, branco neve ou roxo ultravioleta. Flores gigantes (até 12cm) contrastam com caule rígido verde. Textura sedosa e volume exuberante em cada flor.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito apreciada em jardins pela durabilidade das flores cortadas. Atrai borboletas e abelhas. Fácil cultivo. Floração abundante no verão. Cores vibrantes. Popular em buquês. Resistência ao calor.",
+      "corFlor": "Vermelha, Rosa, Amarela"
+    },
+    {
+      "nomePopular": "Botão-de-ouro",
+      "nomeCientifico": "Turnera ulmifolia",
+      "familia": "Caatinga (Solos Áridos e Arenosos)",
+      "habitat": "Caatinga (Solos Áridos e Arenosos)",
+      "descricao": "Flores amarelo-ouro puro com 5 pétalas lisas e brilhantes (parecendo vitrificadas). Abrem apenas pela manhã sob rayos solares e desabrocham totalmente ao meio-dia, fechando novamente ao final da tarde. Botões redondos verde-pálido transformam-se em flores translúcidas quando abertas.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito resistente ao calor e seca. Comum em jardins nordestinos. Flores efêmeras mas floração contínua. Fácil cultivo e propagação. Atrai pequenos insetos polinizadores. Também chamada chanana.",
+      "corFlor": "Amarela"
+    },
+    {
+      "nomePopular": "Terramicina",
+      "nomeCientifico": "Alternanthera dentata",
+      "familia": "Amaranthaceae",
+      "habitat": "Sub-bosque (Sombra Parcial)",
+      "descricao": "Folhagem densa de folhas elípticas tingidas em roxo-púrpura intenso (ou verde-roxo manchado). Caules visíveis vermelho-carmim percorrem entre densidade de folhas. Flores brancas microscópicas em minúsculas espigas globosas - quase invisíveis contra a folhagem roxo-escura.",
+      "cheiro": "Folhas com aroma herbáceo leve.",
+      "curiosidades": "Usada na medicina caseira como antibiótico natural (compressa para feridas). Comum em jardins de sombra. Fácil cultivo. Folhagem ornamental arroxeada. Propriedades anti-inflamatórias. Popular em quintais.",
+      "corFlor": "Branca"
+    },
+    {
+      "nomePopular": "Quebra-pedra",
+      "nomeCientifico": "Phyllanthus niruri",
+      "familia": "Phyllanthaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Planta raríssima - minúscula à primeira vista (20-40cm). Caule central com ramificações laterais horizontais formando padrão de árvore em miniatura. Folhas diminutas (5-10mm) dispostas em fileiras simétricas duplas - desenho geométrico perfeito. Frutos pisciformes pendentes logo abaixo de cada folha.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Amplamente usada para combater cálculos renais (pedras nos rins). Comum em terrenos e jardins. Chá muito popular. Propriedades diuréticas e anti-inflamatórias. Fácil de encontrar. Uso medicinal comprovado.",
+      "corFlor": "Verde"
+    },
+    {
+      "nomePopular": "Agerato",
+      "nomeCientifico": "Ageratum conyzoides",
+      "familia": "Asteraceae",
+      "habitat": "Matas de Galeria e Margens de Rios",
+      "descricao": "Pompom azul-lilás escuro agrupado e denso (1-2cm) encimando caules peludos ramificados. Flores minúsculas azuis lilás contíguas criam efeito felpudo e macio visualmente. Folhas verdes aromáticas com cheiro mentolado penetrante quando esfregadas - aroma que domina o ar ao redor.",
+      "cheiro": "Folhas com aroma forte e característico, mentolado.",
+      "curiosidades": "Também conhecido como Mentrasto. Propriedades analgésicas e anti-inflamatórias. Comum em terrenos úmidos. Chá usado para dores e cólicas. Aroma forte quando amassada. Invasora em algumas regiões.",
+      "corFlor": "Azul, Lilás"
+    },
+    {
+      "nomePopular": "Bela-emília",
+      "nomeCientifico": "Plumbago auriculata",
+      "familia": "Plumbaginaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Flores azuis-celeste delicadas (2-3cm) em cacho terminal alongado. Cálices pegajosos verdes cobrem cada flor com 'velcro' botânico natural - aderem a tecidos e pelos. Ramos longos flexíveis curvam-se graciosamente sob peso das flores. Flores fluem como cachoeira azul sobre estrutura delicada.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito popular em cercas e muros. Floração azul-celeste abundante. Cálices grudentãos dispersam sementes. Fácil cultivo. Resistência ao calor. Variedade branca também existe. Atrai borboletas.",
+      "corFlor": "Azul"
+    },
+    {
+      "nomePopular": "Gervão-roxo",
+      "nomeCientifico": "Stachytarpheta cayennensis",
+      "familia": "Verbenaceae",
+      "habitat": "Áreas de Transição e Cerrado",
+      "descricao": "Espigas longas e finas (10-30cm) cobertas de flores roxas minúsculas (5mm) que abrem sequencialmente de baixo para cima - floração escalonada cria efeito de iluminação progressiva. Caules quadrangulares bem definidos. Padrão de abertura floral único: rosa-púrpura escuro intenso na base, lilás mais claro no topo.",
+      "cheiro": "Folhas com aroma herbáceo leve.",
+      "curiosidades": "Planta medicinal usada para problemas digestivos e hepáticos. Comum em terrenos e beira de estradas. Floração escalonada nas espigas. Atrai borboletas. Chá tradicional. Propriedades depurativas.",
+      "corFlor": "Roxa"
+    },
+    {
+      "nomePopular": "Crista-de-galo",
+      "nomeCientifico": "Celosia argentea",
+      "familia": "Amaranthaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Inflorescência compacta aveludada em formato de crista ondulada (10-20cm) vermelho-sangue, amarelo-ouro, laranja-chama ou rosa-coral. Textura macia e mochuda - tátil ao toque. Formato e textura imitam plenamente crista de galo. Cores intensas e vibrantes duram semanas sem desbotarem.",
+      "cheiro": "Sem cheiro característico.",
+      "curiosidades": "Muito ornamental pela inflorescência exótica. Formato e textura lembram crista de galo. Popular em jardins. Flores duram semanas. Variedades plumosas também existem. Fácil cultivo. Cores vibrantes.",
+      "corFlor": "Vermelha, Amarela"
+    },
+    {
+      "nomePopular": "Mastruz",
+      "nomeCientifico": "Dysphania ambrosioides",
+      "familia": "Amaranthaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas elípticas dentadas verde-claras com caules marcantemente avermelhados (quase púrpura). Aroma penetrante cânfora-mentolado domina o ar - odor herbal muito forte e característico quando folhas esfregadas. Flores verde-brancas minúsculas em espigas alongadas - pouco visíveis mas aromáticas.",
+      "cheiro": "Cheiro forte, penetrante e característico. Aroma cânfora-mentolado.",
+      "curiosidades": "Muito usado batido com leite na medicina popular para contusões e vermes. Comum em terrenos e quintais. Propriedades vermifugas e anti-inflamatórias. ATENÇÃO: Uso excessivo pode ser tóxico. Também chamado erva-de-santa-maria.",
+      "corFlor": "Verde, Branca"
+    },
+    {
+      "nomePopular": "Coentro",
+      "nomeCientifico": "Coriandrum sativum",
+      "familia": "Apiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas delicadas rendilhadas verde-brilhante formando estrutura de renda fina. Frondagem basal muito decorativa (quase plumosa). Flores pequenas brancas ou róseas agrupadas em umbelas formando 'guarda-chuva' botânico. Aroma cítrico-herbal intenso libera-se ao mero movimento do ar próximo.",
+      "cheiro": "Folhas com aroma forte, cítrico e marcante. Sementes secas têm perfume adocicado e aromático.",
+      "curiosidades": "Indispensável na culinária nordestina, especialmente em Pernambuco e Bahia. Usado fresco em peixes, moquecas e caldos. As sementes são usadas como especiaria.",
+      "corFlor": "Branca, Rosada"
+    },
+    {
+      "nomePopular": "Salsinha",
+      "nomeCientifico": "Petroselinum crispum",
+      "familia": "Apiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas tri-pinadas ultra-recortadas e crespas em roseta basal densa verde-escuro brilhante. Superfície ondulada frisada confere textura tátil visível. Tons de verde-floresta em contraste com caules pálidos. Aroma fresco herbáceo intenso com toque cítrico-minério característico.",
+      "cheiro": "Folhas com aroma fresco, herbáceo e característico.",
+      "curiosidades": "Indispensável na culinária nordestina como tempero e guarnição. Rica em vitaminas A, C e K. Cultivo em hortas caseiras. Propriedades diuréticas. Variedades lisa e crespa. Fácil cultivo.",
+      "corFlor": "Amarela, Branca"
+    },
+    {
+      "nomePopular": "Cebolinha",
+      "nomeCientifico": "Allium schoenoprasum",
+      "familia": "Amaryllidaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Touceira densa de folhas tubulares cilíndricas finas verde-escuro (2-3mm diâmetro) simulando grama ornamental. Flores lilás-rosa pálido em pompom globoso (2cm) elevam-se sobre touceira como vela. Aspecto de grama decorativa com flor comestível.",
+      "cheiro": "Folhas com aroma suave de cebola.",
+      "curiosidades": "Muito popular na culinária nordestina. Sabor suave de cebola. Usada fresca picada sobre pratos. Junto com salsinha forma o 'cheiro-verde'. Propriedades digestivas. Fácil cultivo. Multiplica-se rapidamente.",
+      "corFlor": "Rosa, Lilás"
+    },
+    {
+      "nomePopular": "Hortelã",
+      "nomeCientifico": "Mentha spp.",
+      "familia": "Lamiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Caules quadrangulares verdes bem definidos percorrem ramagem vigorosa. Folhas ovais opostas verdes-brilhantes aromáticas criam padrão simétrico. Flores lilás-roxas minúsculas em espigas terminais. Aroma mentolado refrescante irradiante penetra ar circundante - identidade olfativa marcante.",
+      "cheiro": "Aroma refrescante intenso e mentolado característico.",
+      "curiosidades": "Usada em chás, bebidas, temperos e medicinalmente. Propriedades digestivas e refrescantes. Variedades: pimenta, levante, comum. Cultivo fácil mas invasiva. Muito popular em quintais nordestinos. Óleo essencial valioso.",
+      "corFlor": "Lilás, Roxa"
+    },
+    {
+      "nomePopular": "Manjericão",
+      "nomeCientifico": "Ocimum basilicum",
+      "familia": "Lamiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas ovais aveludadas verde-brilhante ou roxo-profundo (variedade roxa). Caules ramificados quadrangulares. Flores brancas ou róseas pequenas em espigas terminais. Aroma doce levemente picante único e inconfundível - essência botânica pura quando levemente esfregada.",
+      "cheiro": "Aroma doce, levemente picante e muito perfumado. Único e inconfundível.",
+      "curiosidades": "Essencial na culinária, especialmente italiana (pesto, molhos). Variedades: doce, roxo, limão, cravo. Propriedades digestivas e calmantes. Repelente natural de insetos. Cultivo fácil em vasos.",
+      "corFlor": "Branca, Rosada"
+    },
+    {
+      "nomePopular": "Gengibre",
+      "nomeCientifico": "Zingiber officinale",
+      "familia": "Zingiberaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Rizoma subterrâneo irregular carnudo (parte visível apenas na colheita) - raiz aromática em branco-creme. Hastes aéreas erétas (60-120cm) com folhas lançoladas alternadas verde-brilhantes formam coluna vegetativa. Ocasionalmente flores amarelas com labelo roxo profundo (5cm) - raro mas espetacular.",
+      "cheiro": "Rizoma com aroma picante, cítrico e pungente característico.",
+      "curiosidades": "Muito usado em chás, culinária e medicinalmente. Propriedades anti-inflamatórias e digestivas. Comum em quintais nordestinos. Cultivo em clima quente e úmido. Colheita após 8-10 meses. Valor medicinal reconhecido.",
+      "corFlor": "Amarela, Roxa"
+    },
+    {
+      "nomePopular": "Cheiro-verde",
+      "nomeCientifico": "Petroselinum crispum + Allium schoenoprasum",
+      "familia": "Apiaceae/Amaryllidaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Combinação visual de dois elementos distintos: salsinha crespa verde-escuro rendilhada contrastada com cebolinha tubular verde-grama fina. Touceira mista densa em tons de verde-profundo e verde-luminoso. Aromas complementares herbal-fresco + cebola-suave criam 'bouquet' aromático duplo único.",
+      "cheiro": "Combinação de aroma herbáceo fresco da salsinha com aroma suave de cebola da cebolinha.",
+      "curiosidades": "Essencial na culinária nordestina. Usado fresco picado como tempero final em praticamente todos os pratos salgados. Base da culinária regional. Cultivado em todos os quintais. Vendido em maços nos mercados.",
+      "corFlor": "Branca, Amarela, Lilás"
+    },
+    {
+      "nomePopular": "Cenoura",
+      "nomeCientifico": "Daucus carota subsp. sativus",
+      "familia": "Apiaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas finas pinadas ultra-recortadas em roseta basal densa verde-escuro - aparência plumosa e delicada. Raiz cônica alaranjada vibrante subterrânea (parte visível apenas parcialmente no topo - verde-roxeado). Contraste drama entre folhagem fina verde e raiz laranja em peso.",
+      "cheiro": "Raiz com aroma adocicado suave. Folhas com perfume herbáceo.",
+      "curiosidades": "Rica em beta-caroteno (vitamina A) - importante para visão. Usada crua, cozida, em sucos, bolos. Cultivada em regiões serranas do Nordeste. Variedades: Brasilia, Nantes, Kuroda. Popular em alimentação infantil.",
+      "corFlor": "Branca, Amarela"
+    },
+    {
+      "nomePopular": "Beterraba",
+      "nomeCientifico": "Beta vulgaris",
+      "familia": "Amaranthaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas grandes ovais verde-avermelhadas com nervuras vermelho-púrpura salientes em padrão de teia de aranha. Raiz globosa ou cônica vermelho-escuro quase preto subterrânea. Contraste visual folhagem verde-roxo + raiz vermelho-escuro profundo. Flores róseas em espigas longas (quando floresce).",
+      "cheiro": "Raiz com aroma terroso característico.",
+      "curiosidades": "Rica em ferro e açúcares naturais. Usada cozida em saladas, sucos, conservas. Corante natural vermelho. Cultivada em regiões serranas. Propriedades antioxidantes. Folhas jovens também comestíveis.",
+      "corFlor": "Vermelha, Rosada"
+    },
+    {
+      "nomePopular": "Abóbora-cabotiá",
+      "nomeCientifico": "Cucurbita moschata",
+      "familia": "Cucurbitaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Frutos globosos achatados (2-5kg) verde-médio rajados com fitas verde-escuro e verde-claro formando padrão listrado caótico. Polpa alaranjada carnuda e densa dentro. Caules grossos ramificados com gavinhas enroladas. Flores amarelas gigantes (10cm) abrem deslumbrantemente.",
+      "cheiro": "Polpa com aroma adocicado característico.",
+      "curiosidades": "Variedade mais popular de abóbora no Nordeste. Usada em pavês, doces (doce de abóbora), refogados, mingaus. Polpa cremosa e doce. Muito nutritiva. Cultivo em quintais e roças. Fundamental na culinária regional.",
+      "corFlor": "Amarela"
+    },
+    {
+      "nomePopular": "Alface",
+      "nomeCientifico": "Lactuca sativa",
+      "familia": "Asteraceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Roseta basal folhas verdes claras (variedade verde) ou roxo-avermelhadas (variedade roxa) delicadas. Folhas lisas ou ultra-crespas em camadas sobrepostas. Estrutura de origami botânico - folhas criam padrão espiral natural. Rosto de alface em variedade crespa parece renda branca quando backlighting.",
+      "cheiro": "Folhas com aroma suave e fresco. Látex leitoso com odor característico.",
+      "curiosidades": "Muito popular em saladas. Variedades: crespa, lisa, americana, roxa. Baixa em calorias, rica em fibras e vitaminas. Cultivo em clima ameno. Hidratáponica comum. Propriedades calmantes suaves.",
+      "corFlor": "Amarela"
+    },
+    {
+      "nomePopular": "Tomate",
+      "nomeCientifico": "Solanum lycopersicum",
+      "familia": "Solanaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Frutos vermelhos vibrantes ou amarelos contrastando com folhagem verde-escura composita pinada aromática. Flores amarelas pequenas em cachos. Caules verdes robustos com pelos finos. Frutos carnudos globosos com sementes em gel visível quando cortados - explosão de vermelho brilhante e suculência.",
+      "cheiro": "Folhas e caules com aroma herbáceo forte característico. Frutos maduros com perfume suave.",
+      "curiosidades": "Base de molhos e pratos nordestinos. Variedades: caqui, cereja, salada, italiano, grape. Rico em licopeno (antioxidante). Cultivo em regiões serranas. Usado in natura, cozido, em molhos, saladas.",
+      "corFlor": "Amarela"
+    },
+    {
+      "nomePopular": "Pimenta-malagueta",
+      "nomeCientifico": "Capsicum frutescens",
+      "familia": "Solanaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Pequenos frutos cônicos apontados verde-pálido tornando-se vermelho-chama intenso quando maduros. Caules ramificados carregando inúmeros frutos verticais apontados para cima - aspecto de 'chamas em pé'. Folhas elípticas verde-escuro pequenas. Frutos minúsculos mas explosivos em intensidade.",
+      "cheiro": "Frutos com aroma pungente. Folhas com perfume leve.",
+      "curiosidades": "Essencial no tempero nordestino. Muito picante (capsaicina). Usada fresca, em conservas, molhos. Propriedades medicinais (circulação). Comum em quintais. Variedades: dedo-de-moça, cumari, biquinho também populares.",
+      "corFlor": "Branca, Amarela"
+    },
+    {
+      "nomePopular": "Cebola",
+      "nomeCientifico": "Allium cepa",
+      "familia": "Amaryllidaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas tubulares ocas glaucas (azul-esverdeado) linear-eretas formando coluna. Bulbo globoso com camadas concêntricas subterrâneo (parcialmente exposto). Colheita revela padrão em anel das camadas - branco puro com possíveis tons roxo-pálido (variedade roxa). Odor pungente liberado ao cortar.",
+      "cheiro": "Bulbo com aroma pungente forte que irrita os olhos. Libera compostos sulfurosos ao cortar.",
+      "curiosidades": "Indispensável na culinária como base de refogados. Variedades: roxa, branca, amarela. Propriedades antibacterianas. Cultivada em regiões serranas. Fundamental em praticamente todos os pratos salgados.",
+      "corFlor": "Branca, Rosada"
+    },
+    {
+      "nomePopular": "Alho",
+      "nomeCientifico": "Allium sativum",
+      "familia": "Amaryllidaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas lineares glaucas azul-esverdeadas formando coluna elegante. Bulbo composto subterrâneo com 5-15 dentes encapsulados em película branca (ou roxo-pálido em variedade roxa). Flores brancas ou róseas em umbela quando floresce (pseudobulbilhos comuns). Aroma pungente muito forte liberado ao manipular dentes.",
+      "cheiro": "Dentes com aroma muito pungente, forte e característico. Odor persistênte.",
+      "curiosidades": "Essencial no tempero nordestino. Propriedades antibacterianas, antivirais e medicinais reconhecidas. Usado em praticamente todos os pratos salgados. Cultivado em regiões serranas. Variedades: roxo, branco. Consumo diário recomendado.",
+      "corFlor": "Branca, Rosada"
+    },
+    {
+      "nomePopular": "Rúcula",
+      "nomeCientifico": "Eruca sativa",
+      "familia": "Brassicaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas pinadas profundamente recortadas verde-escuro brilhante em roseta basal. Cada folha parece renda natural com lobos aguçados. Sabor picante crocante intenso quando mastigada. Flores brancas ou creme com veias roxas delicadas sobre hastes longas. Aroma picante levemente apimentado.",
+      "cheiro": "Folhas com aroma picante e levemente apimentado característico.",
+      "curiosidades": "Popular em saladas gourmet. Sabor marcante ligeiramente amargo e picante. Propriedades antioxidantes e digestivas. Cultivo rápido (30-40 dias). Rica em vitaminas. Crescente popularidade no Nordeste.",
+      "corFlor": "Branca, Creme"
+    },
+    {
+      "nomePopular": "Espinafre",
+      "nomeCientifico": "Spinacia oleracea",
+      "familia": "Amaranthaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas grandes ovais ou triangulares verde-escuro profundo em roseta basal compacta - tons de verde-floresta intenso. Folhas lisas macias ou levemente onduladas. Caule central pálido rosado. Aparência aristocrática com folhagem densa e escura.",
+      "cheiro": "Folhas com aroma herbáceo suave e terroso.",
+      "curiosidades": "Muito nutritiva, alto teor de ferro, vitaminas A, C, K. Usada cozida (refogada) ou crua em saladas e sucos verdes. Cultivo em clima ameno. Popular em alimentação saudável. Propriedades antioxidantes.",
+      "corFlor": "Verde"
+    },
+    {
+      "nomePopular": "Repolho",
+      "nomeCientifico": "Brassica oleracea var. capitata",
+      "familia": "Brassicaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Cabeça compacta densa muito pesada e aperta ao toque - folhas lisas verde-pálido, verde-escuro ou roxo-profundo formam esfera perfeita (1-3kg). Corte transversal revela padrão de anéis de repolho concêntricos - como árvore em miniatura. Densidade impressionante confere peso e solidez.",
+      "cheiro": "Folhas com aroma característico suave. Odor mais forte quando cozido (compostos sulfurosos).",
+      "curiosidades": "Usado cru (saladas, coleslaw), cozido, refogado ou fermentado (chucrute). Variedades: verde, roxo, crespo. Rico em vitamina C e fibras. Cultivo em regiões serranas. Propriedades digestivas e anticancerígenas.",
+      "corFlor": "Amarela, Branca"
+    },
+    {
+      "nomePopular": "Brócolis",
+      "nomeCientifico": "Brassica oleracea var. italica",
+      "familia": "Brassicaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Inflorescência compacta ramificada verde-vibrante (15-25cm) em formato de árvore natural miniatura. Botões florais agrupados densamente criam textura aracnóide - padrão fractal natural. Caule central grosso verde claro suporta copa compacta. Assemelha-se a floresta em miniatura.",
+      "cheiro": "Inflorescência com aroma suave. Odor mais pronunciado quando cozido.",
+      "curiosidades": "Muito nutritivo, rico em vitamina C, K e antioxidantes. Usado cozido no vapor, refogado ou em saladas. Propriedades anticancerígenas reconhecidas. Cultivo em clima ameno. Crescente popularidade no Nordeste.",
+      "corFlor": "Verde"
+    },
+    {
+      "nomePopular": "Couve",
+      "nomeCientifico": "Brassica oleracea var. acephala",
+      "familia": "Brassicaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Folhas grandes ovais verde-escuro profundo (20-40cm) com nervuras salientes muito pronunciadas formando padrão de mapa vegetal. Não formam cabeça - roseta aberta de folhas lanceoladas. Variedade crespa apresenta ondulações e frisados elaborados. Caule alongado robusto suporta folhagem majestosa.",
+      "cheiro": "Folhas com aroma herbáceo característico.",
+      "curiosidades": "Muito popular no Nordeste. Usada refogada (couve mineira), em sucos verdes, caldos. Alta em nutrientes (ferro, cálcio, vitaminas). Colheita contínua (folhas individuais). Resistência e fácil cultivo. Essencial em feijoadas.",
+      "corFlor": "Amarela, Branca"
+    },
+    {
+      "nomePopular": "Rabanete",
+      "nomeCientifico": "Raphanus sativus",
+      "familia": "Brassicaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Raiz pequena (2-5cm) globosa ou alongada vermelha vibrante, branca pura ou bi-color vermelha+branca formando bola crocante. Folhas recortadas em roseta - padrão foliar delicado em verde-médio. Contraste visual raiz vermelha brilhante vs. folhagem verde fina. Sabor picante pungente intenso crocante.",
+      "cheiro": "Raiz com aroma picante leve. Sabor levemente apimentado.",
+      "curiosidades": "Ciclo rápido (25-30 dias). Usado cru em saladas e como acompanhamento. Sabor crocante e picante. Propriedades digestivas. Variedades: redondo, comprido, branco. Fácil cultivo. Rico em vitamina C.",
+      "corFlor": "Branca, Rosada"
+    },
+    {
+      "nomePopular": "Melancia-de-cabaço",
+      "nomeCientifico": "Momordica charantia",
+      "familia": "Cucurbitaceae",
+      "habitat": "Ambientes Antropizados e Cultivados",
+      "descricao": "Frutos alongados (8-25cm) com superfície verrucosa irregular dura - parecendo enrugada ou com 'verrugas'. Cor verde-escuro tornando-se alaranjado-amarelado quando maduro. Polpa branca ou verde-pálida amarga (não adoçada). Caules com gavinhas enroladas - estrutura vigorosa de trepadeira. Aparência 'estranha' e única.",
+      "cheiro": "Frutos com aroma característico. Polpa com odor herbáceo.",
+      "curiosidades": "Muito apreciado na culinária regional apesar do sabor amargo. Usado refogado, em conservas. Medicamento tradicional para diabetes (comprovação científica). Comum em cercas e quintais. Também chamado melão-de-são-caetano.",
+      "corFlor": "Amarela"
+    }
+  ]
+}
+}
