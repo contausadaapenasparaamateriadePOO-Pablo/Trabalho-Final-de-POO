@@ -3,6 +3,8 @@ Projetos Final – POO (2025-2)
 
 Sistema em Python para identificação e classificação de plantas brasileiras, desenvolvido para a disciplina de Programação Orientada a Objetos (POO). O projeto modela categorias botânicas via classes, aplica os pilares de POO e oferece um menu interativo para consultar fichas e identificar espécies a partir de perguntas guiadas.
 
+By: Pablo P. Barbosa
+
 ## Como rodar
 - Requisitos: Python 3.10+ e o pacote `keyboard`.
 - Instalação de dependência: `pip install keyboard`
